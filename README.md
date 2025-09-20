@@ -36,9 +36,4 @@ Welcome to my GitHub! I’m passionate about building real-world solutions with 
 
 ---
 
-## 📫 Connect with Me  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shreya-singh-971451302/))  
-
----
-
 ✨ *Always learning. Always building.*  
