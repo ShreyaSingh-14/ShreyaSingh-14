@@ -9,7 +9,6 @@ Welcome to my GitHub! I’m passionate about building real-world solutions with 
 ## 🚀 About Me  
 - 🌱 Currently learning  **Cross platform Mobile Application Development**  
 - 🔭 Working on projects in **AI Powered Trip Planner, Ecommerce Applicaton for local handicraft systems, and Finance management system**  
-- 📚 Constantly exploring new tech stacks and working on projects that create impact  
 - 🤝 Looking forward to collaborating in open-source projects
 
 ---
