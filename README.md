@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Shreya Singh  
 
-🎓 **Computer Science Student** | 💻 **Aspiring Software Developer** | 🚀 **Problem Solver**  
+🎓 **Computer Science Student**  🚀 **Problem Solver**  
 
 Welcome to my GitHub! I’m passionate about building real-world solutions with code, exploring new technologies, and continuously improving my problem-solving skills.  
 
